@@ -1,7 +1,7 @@
 .py-5{
       
     text-align: center;
-    background: url('../img/stu.jpg');
+    background: url('./img/stu.jpg');
     color: white;
 }
 .fw-bold{
